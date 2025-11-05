@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Andrew Pace (@apace7)
 
-I’m a Galaxy Evolution and Cosmology Fellow at the University of Virginia in the Department of Astronomy. My research focuses on near-field cosmology to understand dark matter and galaxy formation. I study the structure and kinematics of Milky Way and Local Group dwarf galaxies, star clusters, and stellar streams.
+I’m a Galaxy Evolution and Cosmology (GECO) Fellow at the University of Virginia in the Department of Astronomy. My research focuses on near-field cosmology to understand dark matter and galaxy formation. I study the structure and kinematics of Milky Way and Local Group dwarf galaxies, star clusters, and stellar streams.
 
 * [Personal website](https://apace7.github.io/)
 * [Local Volume Database](https://github.com/apace7/local_volume_database)
