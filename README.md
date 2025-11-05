@@ -2,8 +2,9 @@
 
 I’m a Galaxy Evolution and Cosmology (GECO) Fellow at the University of Virginia in the Department of Astronomy. My research focuses on near-field cosmology to understand dark matter and galaxy formation. I study the structure and kinematics of Milky Way and Local Group dwarf galaxies, star clusters, and stellar streams.
 
-* [Personal website](https://apace7.github.io/)
-* [Local Volume Database](https://github.com/apace7/local_volume_database)
+- Some Links:
+  * [Personal website](https://apace7.github.io/)
+  * [Local Volume Database](https://github.com/apace7/local_volume_database)
 - Some Surveys I am involved in:
   * [DECam Local Volume Exploration Survey (DELVE)](https://delve-survey.github.io/)
   * [Southern Stellar Stream Spectroscopic Survey (S5)](https://s5collab.github.io/)
